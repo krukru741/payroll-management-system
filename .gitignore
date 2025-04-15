@@ -48,4 +48,4 @@ Thumbs.db
 *.xls
 
 # PDF files
-*.pdf 
+*.pdf .venv/ 
