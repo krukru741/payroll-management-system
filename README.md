@@ -51,7 +51,7 @@ A comprehensive desktop application for managing employee information, payroll p
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/payroll-management-system.git
+git clone https://github.com/krukru741/payroll-management-system.git
 ```
 
 2. Install required packages:
